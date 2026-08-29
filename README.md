@@ -1,3 +1,7 @@
+
+> [!WARNING]
+> I'm not using Discord anymore because of privacy concerns. So my plugins are unmaintained and provided "as is". Feel free to fork, fix, improve, etc...
+
 # BetterActivities
 
 Shows activity icons in the member list and allows showing all activities
